@@ -1,0 +1,8 @@
+{
+  "name": "tsfuck",
+  "private": true,
+  "description": "Brainfuck interpreter using TypeScript types",
+  "devDependencies": {
+    "typescript": "^4.7.4"
+  }
+}
